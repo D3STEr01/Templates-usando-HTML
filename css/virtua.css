@@ -1,0 +1,21 @@
+#cabecalho {
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    background-image: url('../img/background001.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+
+.bg-cinza{
+background-color: rgb(124, 122, 122);
+}
+
+.bg-black{
+    background-color: black;
+}

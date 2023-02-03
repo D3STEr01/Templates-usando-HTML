@@ -1,0 +1,63 @@
+#cabecalho {
+height: 75vh;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+background-image: url(../img/pexels-matt-hardy-1533720.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+color: #fff;
+}
+
+#emp {
+    background-image: url(https://picsum.photos/1000);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+#emp .container {
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#conhecaemp .container{
+    height: 45vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60vw;
+
+}
+
+#cabecalho h1 {
+    font-size: 3.5em;
+}
+
+
+a{
+  border-radius: 0 !important;  
+}
+
+
+.btn-outline-primary {
+    color: #fff;
+    border-color: #fff;
+}
+
+.btn-primary{
+    background-color: rgb(79, 25, 167);
+    border-color: rgb(79, 25, 167);
+}
+
+.img-fluid{
+    width: 100%;
+}

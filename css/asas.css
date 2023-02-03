@@ -1,0 +1,18 @@
+.body{
+    background-color: black;
+}
+.jorge2{
+    background-color: green;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+}
+
+.jorge{
+    background-color: red;
+    height: 15%;
+    width: 25%;
+  
+}
